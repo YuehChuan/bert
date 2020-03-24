@@ -114,3 +114,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+#yc
+.idea/
+data/Demo_output/
+model/
